@@ -1,1 +1,2 @@
-message="This is configserver". 
+eureka.client.service-url.defaultZone=http://localhost:8081/eureka
+message="This is configserver"
